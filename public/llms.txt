@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סולו מביאה את החבילות שלך ליעד בזמן, בכל מקום. שירות לוגיסטיקה מהיר, אמין ומקצועי שמשנה את חוקי המשלוחים. הצטרפו אלינו עוד היום!
+
+### שירותים
+https://example.com/services
+מגוון שירותי משלוח ולוגיסטיקה מתקדמים, מהאיסוף ועד הדלת. כמו han solo carbonite — כל חבילה שמורה ומוגנת עד להגעה. גלו את השירותים שלנו עכשיו!
+
+### אודות
+https://example.com/about
+סולו נולדה מתוך חזון אחד פשוט: לוגיסטיקה שעובדת בשבילך. כמו han solo lego — כל חלק מחובר בדיוק כדי לבנות חוויית משלוח שאין כמוה. הכירו אותנו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה, צורך במשלוח דחוף, או רוצים לשמוע עוד על Solo? אנחנו כאן בשבילכם עכשיו. צרו קשר ותקבלו מענה מהיר מצוות הלוגיסטיקה שלנו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
